@@ -1,14 +1,10 @@
-
-
-
-
 <h1 align="center">Salut 👋, C'est Kenza Asmani | Ingénieure en Génie Logiciel</h1>
 <h3 align="center">je suis passionnée par le développement web Full Stack</h3>
 <img   align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-7ZE0yPLYziujpaBaoR_pYWp7FeUsn4tktA&s"/>
 
-- 🌱 Actuellement j'apprends **NestJS | Docker | SWAGGER | REDIS**
+- 🌱 Actuellement j'apprends **NestJS, Docker, SWAGGER et REDIS**
 
-- 💬 Questionnez-moi en **ReactJS | LARAVEL | MYSQL | MATLAB**
+- 💬 Questionnez-moi en **ReactJS | LARAVEL | MYSQL | MATLAB | TYPESCRIPT**
 
 - 📫 Mon Email **kenzaasmani8@gmail.com**
 
